@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ComposeIqbal</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="about_me">Tentang saya</string>
+    <string name="back">Back</string>
+
+    <string name="title_home">Home</string>
+    <string name="email_author">rivaldiiqbal921@gmail.com</string>
+    <string name="name_author">Iqbal Rivaldi</string>
+    <string name="search_text">Cari Tokoh</string>
+    <string name="empty_data">Data Tidak Ada</string>
+</resources>
